@@ -1,2 +1,2 @@
-# analytics-engine
-📊 Projects focused on data analysis, insights, and decision-making
+# Capstone-Project
+📊 Project focused on data analysis, insights, and decision-making
